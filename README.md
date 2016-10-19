@@ -18,6 +18,7 @@
     - [ ] Configure File Adaptor
     - [ ] Configure Push Notification Adaptor
     - [ ] A project layout to keep all code in a monorepo
+    - [ ] Continuous Integration and Deployment
 
 ## Slides
 
