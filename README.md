@@ -12,11 +12,14 @@
   - [ ] Image cropping strategies
   - [ ] Do yourself a favor, add these convenient methods
   - [ ] Holistic user feedback
+  - [ ] Credential management
 - Node.js
   - [ ] Pick your tools: ESLint, Sublime Text, SublimeLinter, SublimeLinter-contrib-eslint, JsFormat
+  - [ ] Automation using Ava and Sinon
   - Make parse-server production ready (Google Cloud Platform)
     - [ ] Configure File Adaptor
     - [ ] Configure Push Notification Adaptor
+    - [ ] Where to keep secrets
     - [ ] A project layout to keep all code in a monorepo
     - [ ] Continuous Integration and Deployment
 
